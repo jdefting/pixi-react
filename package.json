@@ -1,6 +1,6 @@
 {
   "name": "@jdefting/react-pixi",
-  "version": "6.8.1",
+  "version": "6.8.2",
   "description": "Write PixiJS applications using React declarative style.",
   "main": "index.js",
   "umd:main": "umd.js",
