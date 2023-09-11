@@ -1,5 +1,5 @@
 {
-  "name": "@inlet/react-pixi",
+  "name": "@jdefting/react-pixi",
   "version": "6.8.0",
   "description": "Write PixiJS applications using React declarative style.",
   "main": "index.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inlet/react-pixi.git"
+    "url": "git+https://github.com/jdefting/react-pixi.git"
   },
   "files": [
     "dist/",
